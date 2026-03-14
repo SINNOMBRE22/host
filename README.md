@@ -168,6 +168,3 @@ Si deseas contribuir:
 
 - Autor: SINNOMBRE22  
 - Archivo principal: `finder.sh` (Bash script)
-
-Si quieres que incluya un bloque de licencia (MIT, GPL, etc.) indícamelo y lo agrego.
-
